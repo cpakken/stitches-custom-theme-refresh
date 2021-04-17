@@ -1,0 +1,19 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "errno": 1,
+    "code": "ELIFECYCLE",
+    "pkgid": "stitches-custom-theme-refresh@0.0.0",
+    "stage": "dev",
+    "script": "vite",
+    "pkgname": "stitches-custom-theme-refresh",
+    "err": {
+      "name": "Error",
+      "message": "stitches-custom-theme-refresh@0.0.0 dev: `vite`\nExit status 1",
+      "code": "ELIFECYCLE",
+      "stack": "Error: stitches-custom-theme-refresh@0.0.0 dev: `vite`\nExit status 1\n    at EventEmitter.<anonymous> (C:\\Users\\ckwon\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.0.2\\node_modules\\pnpm\\dist\\pnpm.cjs:103286:18)\n    at EventEmitter.emit (node:events:376:20)\n    at ChildProcess.<anonymous> (C:\\Users\\ckwon\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.0.2\\node_modules\\pnpm\\dist\\pnpm.cjs:88860:16)\n    at ChildProcess.emit (node:events:376:20)\n    at maybeClose (node:internal/child_process:1063:16)\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)"
+    }
+  }
+}
